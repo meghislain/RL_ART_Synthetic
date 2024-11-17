@@ -1,6 +1,6 @@
-# RL_Delivery
+# RL_ART_Synthetic
 
-Welcome to the GitHub repository for [*Reinforcement Learning for Real-Time Adaptive Proton Therapy on 4D Synthetic Data*].
+Welcome to the GitHub repository for *Reinforcement Learning for Real-Time Adaptive Proton Therapy on 4D Synthetic Data*.
 
 
 <ins>Authors:</ins>
