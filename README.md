@@ -5,7 +5,7 @@ Welcome to the GitHub repository for [*Reinforcement Learning for Real-Time Adap
 
 <ins>Authors:</ins>
 
-[M. Ghislain](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&authuser=1&q=m%C3%A9lanie+ghislain&oq=m%C3%A9lanie)), [A. Pisvin], [A. Aspeel](https://scholar.google.com/citations?hl=fr&user=EDDQMfgAAAAJ), [D. Dasnoy-Sumell](https://scholar.google.com/citations?hl=fr&user=tzzbfVgAAAAJ), [B. Macq](https://scholar.google.be/citations?user=H9pGN70AAAAJ&hl=fr).
+[M. Ghislain](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&authuser=1&q=m%C3%A9lanie+ghislain&oq=m%C3%A9lanie)), A. Pisvin, [A. Aspeel](https://scholar.google.com/citations?hl=fr&user=EDDQMfgAAAAJ), [D. Dasnoy-Sumell](https://scholar.google.com/citations?hl=fr&user=tzzbfVgAAAAJ), [B. Macq](https://scholar.google.be/citations?user=H9pGN70AAAAJ&hl=fr).
 
 
 <br>
@@ -18,7 +18,7 @@ We introduce a novel, real-time approach to optimize radiation delivery using de
   <em>(a).</em>
 </p>
 <p align="center">
-  <img src="github_data/GATING_RESULTS.pdf" alt="Gating approach results" style="width: 80%; max-width: 500px; height: auto;">
+  <img src="github_data/GATING_RESULTS.svg" alt="Gating approach results" style="width: 80%; max-width: 500px; height: auto;">
   <br>
   <em>(b).</em>
 </p>
@@ -31,7 +31,7 @@ delimited by black outline (a) with the ITV technique (b) with the gating techni
 </p>
 
 <p align="center">
-  <img src="github_data/RESULTS_DVH1.pdf" alt="DVH Comparison approach results" style="width: 80%; max-width: 500px; height: auto;">
+  <img src="github_data/RESULTS_DVH1.svg" alt="DVH Comparison approach results" style="width: 80%; max-width: 500px; height: auto;">
   <br>
   <em>Figure 2: Mean with standard deviation plot depicting the TV, HPV, and OAR DVHs for our RL approach and for the baseline methods.</em>
 </p>
