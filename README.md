@@ -5,7 +5,7 @@ Welcome to the GitHub repository for [*Reinforcement Learning for Real-Time Adap
 
 <ins>Authors:</ins>
 
-[M. Ghislain](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&authuser=1&q=m%C3%A9lanie+ghislain&oq=m%C3%A9lanie)), A. Pisvin, [A. Aspeel](https://scholar.google.com/citations?hl=fr&user=EDDQMfgAAAAJ), [D. Dasnoy-Sumell](https://scholar.google.com/citations?hl=fr&user=tzzbfVgAAAAJ), [B. Macq](https://scholar.google.be/citations?user=H9pGN70AAAAJ&hl=fr).
+[M. Ghislain](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&authuser=1&q=m%C3%A9lanie+ghislain&oq=m%C3%A9lanie), A. Pisvin, [A. Aspeel](https://scholar.google.com/citations?hl=fr&user=EDDQMfgAAAAJ), [D. Dasnoy-Sumell](https://scholar.google.com/citations?hl=fr&user=tzzbfVgAAAAJ), [B. Macq](https://scholar.google.be/citations?user=H9pGN70AAAAJ&hl=fr).
 
 
 <br>
@@ -25,8 +25,9 @@ We introduce a novel, real-time approach to optimize radiation delivery using de
 <p align="center">
   <img src="github_data/RL_RESULTS.svg" alt="RL approach results" style="width: 80%; max-width: 500px; height: auto;">
   <br>
-  <em>(c).</em>
-  <em>Figure 2: Accumulated dose on the consecutive slices of the entire environment volume with the TV in bold black and the HPV
+  <em>(c).</em> <br>
+<br>
+  <em>Figure 1: Accumulated dose on the consecutive slices of the entire environment volume with the TV in bold black and the HPV
 delimited by black outline (a) with the ITV technique (b) with the gating technique and (c) with our RL method.</em>
 </p>
 
@@ -42,7 +43,6 @@ delimited by black outline (a) with the ITV technique (b) with the gating techni
 ## Contents 📑
 
 - [Setup](#setup-)
-- [Datasets](#datasets-️)
 - [User Manual](#user-manual-)
 - [Citations](#citations-)
 - [Contributing](#contributing-)
@@ -85,10 +85,6 @@ pip3 install -r requirements.txt
 <br>
 
 You are ready to start! 🎉
-
----
-<br><br>
-## Datasets 🗂️
 
 ---
 <br><br>
@@ -168,7 +164,6 @@ Support our work by citing our paper if you use this repository:
 ```
 Under review process
 ```
-
 
 ---
 <br><br>
