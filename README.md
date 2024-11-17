@@ -18,7 +18,7 @@ We introduce a novel, real-time approach to optimize radiation delivery using de
   <em>(a).</em>
 </p>
 <p align="center">
-  <img src="github_data/GATING_RESULTS.svg" alt="Gating approach results" style="width: 80%; max-width: 500px; height: auto;">
+  <img src="github_data/GATING_RESULTS.pdf" alt="Gating approach results" style="width: 80%; max-width: 500px; height: auto;">
   <br>
   <em>(b).</em>
 </p>
